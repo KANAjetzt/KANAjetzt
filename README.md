@@ -31,6 +31,10 @@ To display your and your opponents leaderboard stats. 📈`
 
 * [NVHDV2](https://github.com/NVHD/NVHDV2) 
 
+<h3>Other Stuff</h3>
+
+[SteamLibVR](https://github.com/KANAjetzt/SteamLibVR) ➖ [3080checker](https://github.com/KANAjetzt/3080checker) ➖ [What2Game](https://github.com/KANAjetzt/What2Game) ➖ [GradientWatch](https://github.com/KANAjetzt/GradientTimeAndDay)
+
 <!--
 **KANAjetzt/KANAjetzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,3 @@
-<h2>Projects</h2>
-
 <h3>GuessThePrice Game</h3>
 
 `🎉Invite your friends and guess the price of random amazon products! 🎉`

@@ -1,3 +1,11 @@
+<h3>Garden Rescue</h3>
+
+`🌱 Little Farming Game for "My First Game Jam: Summer 2022" 🌱`
+  </br> 
+
+* [Porject Files](https://github.com/KANAjetzt/GardenRescue)
+* [itch.io Page](https://kanamedia.itch.io/garden-rescue) 
+
 <h3>GuessThePrice Game</h3>
 
 `🎉Invite your friends and guess the price of random amazon products! 🎉`
@@ -22,16 +30,10 @@ To display your and your opponents leaderboard stats. 📈`
 
 * [AOE4 Overlay](https://github.com/KANAjetzt/aoe4Overlay)
 
-<h3>NVHD2</h3>
-
-<code>🎊 Codebase for <a href="https://heuliecher.de/">heuliecher.de</a> 🎊</code>
-<br />
-
-* [NVHDV2](https://github.com/NVHD/NVHDV2) 
 
 <h3>Other Stuff</h3>
 
-[SteamLibVR](https://github.com/KANAjetzt/SteamLibVR) ➖ [3080checker](https://github.com/KANAjetzt/3080checker) ➖ [What2Game](https://github.com/KANAjetzt/What2Game) ➖ [GradientWatch](https://github.com/KANAjetzt/GradientTimeAndDay)
+[NVHDV2](https://github.com/NVHD/NVHDV2) ➖ [SteamLibVR](https://github.com/KANAjetzt/SteamLibVR) ➖ [3080checker](https://github.com/KANAjetzt/3080checker) ➖ [What2Game](https://github.com/KANAjetzt/What2Game) ➖ [GradientWatch](https://github.com/KANAjetzt/GradientTimeAndDay)
 
 <!--
 **KANAjetzt/KANAjetzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

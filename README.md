@@ -3,7 +3,7 @@
 `🌱 Little Farming Game for "My First Game Jam: Summer 2022" 🌱`
   </br> 
 
-* [Porject Files](https://github.com/KANAjetzt/GardenRescue)
+* [Project Files](https://github.com/KANAjetzt/GardenRescue)
 * [itch.io Page](https://kanamedia.itch.io/garden-rescue) 
 
 <h3>GuessThePrice Game</h3>

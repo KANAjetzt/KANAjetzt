@@ -8,7 +8,7 @@
 
 <h3>GuessThePrice Game</h3>
 
-`🎉Invite your friends and guess the price of random amazon products! 🎉`
+`🎉 Invite your friends and guess the price of random amazon products! 🎉`
   </br> 
 
 * [GuessThePrice Game Frontend](https://github.com/KANAjetzt/guessThePrice_Front)
